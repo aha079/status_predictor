@@ -1,6 +1,7 @@
 import csv
 import numpy as np
 import pandas as pd
+import emoji
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
